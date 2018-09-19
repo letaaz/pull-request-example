@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="0.0" y="0.0">car.tp4.bean.BookBeanServiceItrf</node>
+    <node x="329.0" y="147.0">car.tp4.bean.CartBeanService</node>
+    <node x="875.0" y="0.0">car.tp4.dataBase.Commande</node>
+    <node x="605.0" y="0.0">car.tp4.dataBase.Book</node>
+    <node x="329.0" y="0.0">car.tp4.bean.CartBeanServiceItf</node>
+    <node x="0.0" y="323.0">car.tp4.bean.BookServiceBean</node>
+    <node x="622.5" y="416.75">car.tp4.servlet</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="car.tp4.bean.CartBeanService" target="car.tp4.bean.CartBeanServiceItf">
+      <point x="0.0" y="-71.0" />
+      <point x="0.0" y="48.5" />
+    </edge>
+    <edge source="car.tp4.bean.BookServiceBean" target="car.tp4.bean.BookBeanServiceItrf">
+      <point x="0.0" y="-148.0" />
+      <point x="0.0" y="136.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.8" x="665.0" y="139.25" />
+  <SelectedNodes>
+    <node>car.tp4.bean.BookBeanServiceItrf</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Constructors</Category>
+    <Category>Properties</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
